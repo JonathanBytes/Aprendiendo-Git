@@ -1,1 +1,2 @@
-ola universo por consola
+console.log('Hola universo')
+// Hola universo por consola
