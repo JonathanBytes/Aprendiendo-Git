@@ -1,2 +1,1 @@
-console.log('Hola universo');
-// Sale un Hola universo por consola
+ola universo por consola
