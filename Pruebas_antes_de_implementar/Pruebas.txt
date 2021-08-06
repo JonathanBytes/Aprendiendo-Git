@@ -1,0 +1,3 @@
+Esto es una prueba para ignorar, sin embargo, creo que no sirve.
+.
+Ya casi vamos a usar GitHub que es lo que me importa jeje
